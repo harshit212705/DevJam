@@ -26,3 +26,17 @@ List of projects made during DevJam 2.0
 
 **Github URL** - "https://github.com/Pratiknarola/face_classifier"
 <hr>
+
+
+## Project - 2
+
+**Team Name** - "CodeBreakers"
+
+**Project Name** - "Library Management System"
+
+**Project Description** - "Library Manager for better and efficient service to users.
+-Faster retrieval of details about any book, user and faculty members.
+-Provides facilities for proper monitoring."
+
+**Github URL** - "https://github.com/harshit212705/Library-Management-System"
+<hr>
